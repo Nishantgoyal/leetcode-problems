@@ -1,2 +1,8 @@
-# leetcode-problems
-leetcode problems
+# LeetCode Problems
+
+[LeetCode](https://leetcode.com/)
+
+## Problems
+
+| S. No. | Name | Status |
+| :----- | :--: | -----: |
